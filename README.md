@@ -9,7 +9,7 @@ A private, full-stack B2B web application designed for sales teams that combines
 | Layer | Technology |
 | :--- | :--- |
 | **Backend** | Node.js, Express |
-| **Frontend** | Vanilla JS (No framework — custom DOM helper library) |
+| **Frontend** | Vanilla JS (No framework - custom DOM helper library) |
 | **Database** | PostgreSQL (Neon serverless) |
 | **AI / LLM** | Google Gemini API (`gemini-2.5-flash`) |
 | **Auth** | Google Sign-In (OAuth 2.0), allowlist-gated |
