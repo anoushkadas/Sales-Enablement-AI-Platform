@@ -1,6 +1,6 @@
 // =====================================================================
-// DATABASE — real persistence via Postgres (Neon free tier recommended;
-// see README). This replaces the old "everything resets on refresh"
+// DATABASE — real persistence via Postgres
+// This replaces the old "everything resets on refresh"
 // behavior for users, lesson plans, roadmap items, and assignments.
 //
 // Uses the plain `pg` package with a connection pool — no ORM, so the
