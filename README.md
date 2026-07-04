@@ -30,7 +30,7 @@ A private, full-stack B2B web application designed for sales teams that combines
 * **Intelligent Website Fallback:** Dynamically falls back to the company’s public website if uploaded internal documents do not cover a user query.
 
 ### 📚 Learning Roadmap & Structured Paths
-* Generates continuous learning paths containing 3–6 sequential lessons with multi-paragraph detailed content and highlighted key terms.
+* Generates continuous learning paths containing 3-6 sequential lessons with multi-paragraph detailed content and highlighted key terms.
 * Builds an automated 3-question quiz generated alongside the custom lesson text.
 * **Quiz-Gated Progression:** Sales reps must score a passing grade (2/3+) to unlock successive lessons.
 * Visual progress grouping equipped with functional progress bars, milestone badges, and full-path certificates.
