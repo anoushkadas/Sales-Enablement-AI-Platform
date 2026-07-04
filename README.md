@@ -1,6 +1,6 @@
 # Sales Enablement AI Platform
 
-A private, full-stack B2B web application designed for sales teams that combines an AI coach, a structured learning system, and an intelligent deal-tracking workspace—all securely grounded in your company's own uploaded documentation and public website. The AI strictly adheres to your custom knowledge base, ensuring zero hallucinations or invented company facts.
+A private, full-stack B2B web application designed for sales teams that combines an AI coach, a structured learning system, and an intelligent deal-tracking workspace. All securely grounded in your company's own uploaded documentation and public website. The AI strictly adheres to your custom knowledge base, ensuring zero hallucinations or invented company facts.
 
 ---
 
