@@ -1,8 +1,3 @@
-// =====================================================================
-// AUTH — sign-in gate shown before the app loads. Edit GOOGLE_CLIENT_ID
-// below once you've created your OAuth client (see README).
-// =====================================================================
-
 const GOOGLE_CLIENT_ID = "339771370248-uckaljn92bqtha96tdbt0uqeaq2fqu1n.apps.googleusercontent.com";
 
 (function () {
